@@ -7,11 +7,11 @@ From the [SkillFactory Data Science Course](https://skillfactory.ru/data-science
 - [Проект 2:]
 
 ## Оглавление
-[1. Описание проекта](https://github.com/gtsapko/SF-homework/tree/main/project_0/README.md#Описание-проекта)
-[2. Какой кейс решаем?](https://github.com/gtsapko/SF-homework/tree/main/project_0/README.md#Какой-кейс-решаем)
-[3. Информация о данных](https://github.com/gtsapko/SF-homework/tree/main/project_0/README.md#Информация-о-данных)
-[4. Этапы работы над проектом](https://github.com/gtsapko/SF-homework/tree/main/project_0/README.md#Этапы-работы-над-проектом)
-[5. Результаты](https://github.com/gtsapko/SF-homework/tree/main/project_0/README.md#Результаты)
+[1. Описание проекта](https://github.com/gtsapko/SF-homework/tree/main/project_0/README.md#описание-проекта)
+[2. Какой кейс решаем?](https://github.com/gtsapko/SF-homework/tree/main/project_0/README.md#какой-кейс-решаем)
+[3. Информация о данных](https://github.com/gtsapko/SF-homework/tree/main/project_0/README.md#информация-о-данных)
+[4. Этапы работы над проектом](https://github.com/gtsapko/SF-homework/tree/main/project_0/README.md#этапы-работы-над-проектом)
+[5. Результаты](https://github.com/gtsapko/SF-homework/tree/main/project_0/README.md#результаты)
 
 
 ### Описание проекта
