@@ -16,10 +16,7 @@ From the [SkillFactory Data Science Course](https://skillfactory.ru/data-science
 
 ### Описание проекта
 
-
 ### Какой кейс решаем?
-
-
 
 ### Информация о данных
 
