@@ -6,10 +6,10 @@ From the [SkillFactory Data Science Course](https://skillfactory.ru/data-science
 - [Проект 1: Игра угадай число за 20 попыток](https://github.com/gtsapko/SF-homework/tree/main/project_1)
 
 ## Оглавление
-[1. Описание проекта](https://github.com/gtsapko/SF-homework/tree/main/project_0/README.md#описание-проекта)
-[2. Какой кейс решаем?](https://github.com/gtsapko/SF-homework/tree/main/project_0/README.md#какой-кейс-решаем)
-[3. Этапы работы над проектом](https://github.com/gtsapko/SF-homework/tree/main/project_0/README.md#этапы-работы-над-проектом)
-[4. Результаты](https://github.com/gtsapko/SF-homework/tree/main/project_0/README.md#результаты)
+[1. Описание проекта](https://github.com/gtsapko/SF-homework/tree/main/project_1/README.md#описание-проекта)
+[2. Какой кейс решаем?](https://github.com/gtsapko/SF-homework/tree/main/project_1/README.md#какой-кейс-решаем)
+[3. Этапы работы над проектом](https://github.com/gtsapko/SF-homework/tree/main/project_1/README.md#этапы-работы-над-проектом)
+[4. Результаты](https://github.com/gtsapko/SF-homework/tree/main/project_1/README.md#результаты)
 
 
 ### Описание проекта
